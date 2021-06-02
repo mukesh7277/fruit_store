@@ -1,0 +1,220 @@
+{
+   "ShopData" : [
+    {
+        "id":1,
+        "name":"Fresh Fruit",
+        "price":30,
+        "image":"https://images.unsplash.com/photo-1562166437-24ebf08f28be?ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8ZnJ1aXRzfGVufDB8MnwwfHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
+        "color":"blue",
+        "size" :"large",
+        "department" :"Fresh Meat",
+        "items":[
+            {
+                "id":1,
+                "price":30,
+                "name":"Fresh Fruit",
+                "image":"https://images.unsplash.com/photo-1562166437-24ebf08f28be?ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8ZnJ1aXRzfGVufDB8MnwwfHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60"
+
+            }
+        ]
+    },
+    {
+        "id":2,
+        "name":"Fresh Fruit",
+        "price":20,
+        "image":"https://images.unsplash.com/photo-1558894240-02639ceea49f?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=80",
+        "color":"green",
+        "size":"medium",
+        "department":"Vegetables",
+        "items":[
+            {
+                "id":2,
+                "price":20,
+                "name":"Fresh Fruit",
+                "image":"https://images.unsplash.com/photo-1558894240-02639ceea49f?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=80"
+        
+            }
+        ]
+    },
+    {
+        "id":3,
+        "image":"https://images.unsplash.com/photo-1618225726814-ab70d87027b0?ixid=MnwxMjA3fDB8MHxzZWFyY2h8MjB8fGZydWl0c3xlbnwwfDJ8MHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
+        "price":60,
+        "name":"Fresh Fruit",
+        "color":"white",
+        "size":"small",
+        "department":"Fruit & Nut Gifts",
+        "items":[
+            {
+                "id":3,
+                "price":60,
+                "name":"Fresh Fruit",
+                "image":"https://images.unsplash.com/photo-1618225726814-ab70d87027b0?ixid=MnwxMjA3fDB8MHxzZWFyY2h8MjB8fGZydWl0c3xlbnwwfDJ8MHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60"
+        
+            }
+        ]
+    },
+    {
+        "id":4,
+        "image":"https://images.unsplash.com/photo-1618871736709-0843f4cfc85b?ixid=MnwxMjA3fDB8MHxzZWFyY2h8NDB8fGZydWl0c3xlbnwwfDJ8MHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
+        "price":100,
+        "name":"Fresh Fruit",
+        "color":"grey",
+        "size":"tiny",
+        "department":"Fresh Berries",
+        "items":[
+            {
+                "id":4,
+                "price":100,
+                "name":"Fresh Fruit",
+                "image":"https://images.unsplash.com/photo-1618871736709-0843f4cfc85b?ixid=MnwxMjA3fDB8MHxzZWFyY2h8NDB8fGZydWl0c3xlbnwwfDJ8MHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60"
+        
+            }
+        ]
+    },
+    {
+        "id":5,
+        "image":"https://images.unsplash.com/photo-1617235278398-c8497b232429?ixid=MnwxMjA3fDB8MHxzZWFyY2h8NDV8fGZydWl0c3xlbnwwfDJ8MHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
+        "price":10,
+        "name":"Fresh Fruit",
+        "color":"blue",
+        "size":"large",
+        "department":"Ocean Foods",
+        "items":[
+            {
+                "id":5,
+                "price":10,
+                "name":"Fresh Fruit",
+                "image":"https://images.unsplash.com/photo-1617235278398-c8497b232429?ixid=MnwxMjA3fDB8MHxzZWFyY2h8NDV8fGZydWl0c3xlbnwwfDJ8MHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60"
+       
+            }
+        ]
+    },
+    {
+        "id":6,
+        "image":"https://images.unsplash.com/photo-1578294178279-bb0fac077249?ixid=MnwxMjA3fDB8MHxzZWFyY2h8NjB8fGZydWl0c3xlbnwwfDJ8MHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
+        "price":35,
+        "name":"Fresh Fruit",
+        "color":"white",
+        "size":"medium",
+        "department":"Butter & Eggs",
+        "items":[
+            {
+                "id":6,
+                "price":35,
+                "name":"Fresh Fruit",
+                "image":"https://images.unsplash.com/photo-1578294178279-bb0fac077249?ixid=MnwxMjA3fDB8MHxzZWFyY2h8NjB8fGZydWl0c3xlbnwwfDJ8MHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60"
+       
+            }
+        ]
+    },
+    {
+        "id":7,
+        "image":"https://images.unsplash.com/photo-1571771894821-ce9b6c11b08e?ixid=MnwxMjA3fDB8MHxzZWFyY2h8NjV8fGZydWl0c3xlbnwwfDJ8MHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
+        "price":50,
+        "name":"Fresh Fruit",
+        "color":"grey",
+        "size":"medium",
+        "department":"Fastfood",
+        "items":[
+            {
+                "id":7,
+                "price":50,
+                "name":"Fresh Fruit",
+                "image":"https://images.unsplash.com/photo-1571771894821-ce9b6c11b08e?ixid=MnwxMjA3fDB8MHxzZWFyY2h8NjV8fGZydWl0c3xlbnwwfDJ8MHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60"
+       
+            }
+        ]
+    },
+    {
+        "id":8,
+        "image":"https://images.unsplash.com/photo-1586882279663-6ef1ee3a7190?ixid=MnwxMjA3fDB8MHxzZWFyY2h8NzB8fGZydWl0c3xlbnwwfDJ8MHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
+        "price":30,
+        "name":"Fresh Fruit",
+        "color":"blue",
+        "size":"small",
+        "department":"Papayaya & Crisps",
+        "items":[
+            {
+                "id":8,
+                "price":30,
+                "name":"Fresh Fruit",
+                "image":"https://images.unsplash.com/photo-1586882279663-6ef1ee3a7190?ixid=MnwxMjA3fDB8MHxzZWFyY2h8NzB8fGZydWl0c3xlbnwwfDJ8MHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60"
+        
+            }
+        ]
+    },
+    {
+        "id":9,
+        "image":"https://images.unsplash.com/photo-1571139317672-93369256842c?ixid=MnwxMjA3fDB8MHxzZWFyY2h8OTl8fGZydWl0c3xlbnwwfDJ8MHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
+        "price":25,
+        "name":"Fresh Fruit",
+        "color":"green",
+        "size":"large",
+        "department":"Fresh Meat",
+        "items":[
+            {
+                "id":9,
+                "price":25,
+                "name":"Fresh Fruit",
+                "image":"https://images.unsplash.com/photo-1571139317672-93369256842c?ixid=MnwxMjA3fDB8MHxzZWFyY2h8OTl8fGZydWl0c3xlbnwwfDJ8MHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60"
+       
+            }
+        ]
+    },
+    {
+        "id":10,
+        "image":"https://images.unsplash.com/photo-1582281298055-e25b84a30b0b?ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTA5fHxmcnVpdHN8ZW58MHwyfDB8fA%3D%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
+        "price":40,
+        "name":"Fresh Fruit",
+        "color":"green",
+        "size":"medium",
+        "department":"Vegetables",
+        "items":[
+            {
+                "id":10,
+                "price":10,
+                "name":"Fresh Fruit",
+                "image":"https://images.unsplash.com/photo-1582281298055-e25b84a30b0b?ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTA5fHxmcnVpdHN8ZW58MHwyfDB8fA%3D%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60"
+        
+            }
+        ]
+    },
+    {
+        "id":11,
+        "image":"https://images.unsplash.com/photo-1615485925763-86786288908a?ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTIxfHxmcnVpdHN8ZW58MHwyfDB8fA%3D%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
+        "price":30,
+        "name":"Fresh Fruit",
+        "color":"blue",
+        "size":"medium",
+        "department":"Vegetables",
+        "items":[
+            {
+                "id":11,
+                "price":30,
+                "name":"Fresh Fruit",
+                "image":"https://images.unsplash.com/photo-1615485925763-86786288908a?ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTIxfHxmcnVpdHN8ZW58MHwyfDB8fA%3D%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60"
+        
+            }
+        ]
+    },
+    {
+        "id":12,
+        "image":"https://images.unsplash.com/photo-1619534359862-4fc340de5340?ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTIyfHxmcnVpdHN8ZW58MHwyfDB8fA%3D%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
+        "price":45,
+        "name":"Fresh Fruit",
+        "color":"red ",
+        "size":"large",
+        "department":"Vegetables",
+        "items":[
+            {
+                "id":12,
+                "price":45,
+                "name":"Fresh Fruit",
+                "image":"https://images.unsplash.com/photo-1619534359862-4fc340de5340?ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTIyfHxmcnVpdHN8ZW58MHwyfDB8fA%3D%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60"
+        
+            }
+        ]
+    }
+]
+}
